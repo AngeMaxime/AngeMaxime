@@ -20,9 +20,10 @@ Pursuing a **career in Infection Biology, Bioinformatics, and AI in Healthcare**
 ## 🧠 Research Interests
 
 - Infectious diseases (Malaria, Typhoid, EBV, TB)  
-- Host-pathogen interactions  
+- Host-pathogen interactions
+- Drug resistance markers and molecular Diagnostic 
 - Biomarker discovery & disease severity  
-- Genomics & polymorphisms (ACE2/TMPRSS2)  
+- Genomics & polymorphisms 
 - AI & Machine Learning in Healthcare  
 
 ---
@@ -99,79 +100,6 @@ Pursuing a **career in Infection Biology, Bioinformatics, and AI in Healthcare**
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="60"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-original.svg" height="60"/>
 </p>
-
-
-### 🧪 Laboratory Skills
-ELISA • Real-Time PCR • DNA Extraction • Microscopy • Spectrophotometry • Gel Electrophoresis  
-
----
-
-## 🔬 Research & Projects Experience
-
-### 🧬 Epstein–Barr Virus & Placental Malaria Project (Current)
-**Field Investigator & Laboratory Technician (2026–Present)**  
-- Studying **EBV reactivation and placental malaria pathophysiology**  
-- Sample collection (placental and peripheral blood, tissue)  
-- ELISA (EBV detection), β2-microglobulin, anti-VAR2CSA quantification  
-- PBMC isolation and upcoming **RNA sequencing analyses**  
-
----
-
-### 🦠 Marburg Virus Seroprevalence Study (ALERRT)
-**Laboratory Lead (2025)**  
-- Supervised sample collection and laboratory processing  
-- Performed Luminex-based IgG/IgM detection  
-- Conducted genotyping and multiplex infection analysis  
-
----
-
-### 🧪 Malaria & Typhoid Biomarker Study
-**Field Investigator & Laboratory Technician (2023–2024)**  
-- Investigated **oxidative stress and inflammatory biomarkers**  
-- Performed PCR, ELISA, microscopy, and RDTs  
-- Conducted **ROC curve analysis** for diagnostic biomarker identification  
-
----
-
-### 🧬 ACE2/TMPRSS2 Polymorphism Project (EDCTP)
-**Research Intern (2023–2024)**  
-- Studied genetic factors in COVID-19, malaria, and TB co-infections  
-- Performed DNA extraction, PCR, and biochemical analyses  
-
----
-
-## 📚 Publications
-
-📄 **2025**
-- Netongo PM, Tchoutang AM, et al.  
-  *Malaria and Typhoid Fever Coinfection Among Febrile Patients in Yaoundé*  
-  **Journal of Parasitology Research**  
-  https://doi.org/10.1155/japr/9977704  
-
-- Netongo PM, Eric MB, Kamdem SD, Tchoutang AM, Mbacham WF  
-  *Oxidative stress in malaria and typhoid fever: A scoping review*  
-  **PLOS Global Public Health**  
-  https://doi.org/10.1371/journal.pgph.0005193  
-
-- Eric MB, Netongo PM, Kamdem SD, Nzuno C, **Tchoutang AM**, et al.  
-  *Stress-mediating inflammatory cytokine profiling in malaria and typhoid patients*  
-  **PLOS ONE**  
-  https://doi.org/10.1371/journal.pone.0306585  
-
-📄 **2024**
-- Tchoutang AM, et al.  
-  *Malaria and Typhoid Fever Co-Infection: Disease Severity and Immune Response*  
-  **Journal of the National Medical Association**  
-  https://doi.org/10.1016/j.jnma.2024.07.086  
-
----
-
-## 🏆 Achievements
-
-🏅 4× Best Student Award (Ministry of Higher Education)  
-🌍 International conference presentations (USA, Rwanda)  
-📊 Multiple peer-reviewed publications  
-🎓 Top 1% MSc thesis (95%)  
 
 ---
 
