@@ -86,12 +86,6 @@ Pursuing a **career in Infection Biology, Bioinformatics, and AI in Healthcare**
   <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/>
 </p>
 
-🧠 **Core Competencies**
-- Supervised Learning (Classification, Regression)
-- Model Evaluation (ROC curves, Accuracy, Precision, Recall, F1-score)
-- Data Preprocessing (Cleaning, Normalization, Feature Engineering)
-- Exploratory Data Analysis (EDA)
-- Basic Deep Learning (Neural Networks)
 
 ### ⚙️ Tools
 <p align="left">
@@ -99,23 +93,6 @@ Pursuing a **career in Infection Biology, Bioinformatics, and AI in Healthcare**
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="60"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="60"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-original.svg" height="60"/>
-</p>
-
----
-
-## 🌱 Currently Learning
-
-- Advanced Machine Learning  
-- AI in Drug Discovery  
-- Genomics & RNA-Seq analysis  
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AngeMaxime&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AngeMaxime&layout=compact&theme=tokyonight" />
 </p>
 
 ---
@@ -140,5 +117,5 @@ Pursuing a **career in Infection Biology, Bioinformatics, and AI in Healthcare**
 
 ## ⚡ Fun Fact
 
-🧪 I bridge **wet lab biology** and **computational science** to solve real-world health challenges.
+🧪 I am an Introvert 
 
